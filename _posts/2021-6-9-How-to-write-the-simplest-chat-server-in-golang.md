@@ -1,5 +1,9 @@
 ---
-layout: post title:  How to write the simplest chat server in golang categories: [GoLang]
+
+layout: post 
+title:  How to write the simplest chat server in golang 
+categories: [GoLang]
+
 ---
 
 ### Introduction
