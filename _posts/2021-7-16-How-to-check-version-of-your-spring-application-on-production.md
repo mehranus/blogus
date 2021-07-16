@@ -4,12 +4,12 @@ layout: post
 title:  How to check version of your spring application on production
 categories: [spring , java]
 
+---
 
 How to check version of your spring application on production
 Today's software deployment is a repetitive process some times you may deploy your software a hundred times in a day especially when your system is on microservices architect you have many services and continuously deployment.
 so one of the important things is you must know which version of your service is on production now in this article we learn how to use spring actuator and maven git plugin to find out which version of our application is running on production now
 
----
 
 So we need actuator in our dependencies:
 ```xml
