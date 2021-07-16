@@ -55,5 +55,7 @@ If you want somthing like a message in this endpoint you can add `info.message=h
 }
 ```
 I hope you enjoy it ;)
+
 And Leave comment that really makes me happy❤️
-You can also read this article on Medium blog here
+
+You can also read this article on Medium blog [here](https://mehranbehnam77.medium.com/how-to-check-version-of-your-spring-application-on-production-74a58513fee0)
